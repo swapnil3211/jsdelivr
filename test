@@ -1,0 +1,16 @@
+ @media only screen and (min-width: 1920px){
+.event-slider .slick-prev {
+      margin-right: 210px;
+} 
+    .event-slider .slick-next {
+    margin-right: 244px;
+}
+  }  
+@media only screen and (min-width: 1440px){
+.event-slider .slick-prev {
+      margin-right: 300px;
+}
+    .event-slider .slick-next {
+    margin-right: 277px;
+}
+  } 
